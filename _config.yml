@@ -1,0 +1,79 @@
+# =============================================================================
+# Site Settings
+# =============================================================================
+title: CAPR Lab
+description: >- 
+  The Cognitive, Applied, and Perceptual Research (CAPR) Lab directed by Dr. Justin Bonny.
+url: "https://caprlab.github.io"
+baseurl: "/labsite"
+
+# =============================================================================
+# Navigation Menu
+# =============================================================================
+# Header Navigation Links (rendered left to right)
+header_pages:
+  - _pages/research.md
+  - _pages/team.md
+  - _pages/publications.md
+  - _pages/labresources.md
+  - _pages/contact.md
+
+# These are the links that will appear at the top of your website.
+# The 'url' matches the permalinks you set in your Markdown files.
+nav:
+  - title: Home
+    url: /
+  - title: Research
+    url: /research/
+  - title: People
+    url: /team/
+  - title: Publications
+    url: /publications/
+  - title: Lab Resources
+    url: /labresources/
+
+# =============================================================================
+# Collections (Custom Folders)
+# =============================================================================
+# This tells Jekyll to look for folders like _team and process the files inside.
+# Collections (Custom Folders)
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+  research:
+    output: true
+    permalink: /:name/
+  team:
+    output: true
+    permalink: /team/:name/
+  labresources:
+    output: true
+    permalink: /labresources/:name/
+
+# =============================================================================
+# Build & Theme Settings
+# =============================================================================
+# These settings tell GitHub's servers how to process your files.
+markdown: kramdown
+highlighter: rouge
+
+# If using a specific theme like al-folio, its name goes here.
+# If using a default GitHub theme, it might be jekyll-theme-minimal.
+theme: minima
+
+# Standard plugins that help with SEO and generating RSS feeds.
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-scholar
+
+# =============================================================================
+# Exclude Files
+# =============================================================================
+# Tells Jekyll NOT to publish these backend files to the live website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor/
