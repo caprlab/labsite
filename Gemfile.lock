@@ -303,6 +303,3 @@ DEPENDENCIES
   github-pages
   jekyll-scholar
   minima (~> 2.5)
-
-BUNDLED WITH
-   1.17.2
