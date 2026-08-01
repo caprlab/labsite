@@ -295,6 +295,7 @@ GEM
     zeitwerk (2.6.18)
 
 PLATFORMS
+  arm64-darwin
   ruby
   x86_64-linux
 
@@ -303,3 +304,6 @@ DEPENDENCIES
   github-pages
   jekyll-scholar
   minima (~> 2.5)
+
+BUNDLED WITH
+  4.0.17
