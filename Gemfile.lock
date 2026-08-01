@@ -52,7 +52,7 @@ GEM
       faraday-net_http (>= 2.0, < 3.1)
       ruby2_keywords (>= 0.0.4)
     faraday-net_http (3.0.2)
-    ffi (1.15.5)
+    ffi (1.16.3)
     forwardable (1.4.0)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
@@ -299,7 +299,10 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  ffi (~> 1.15.5)
+  ffi
   github-pages
   jekyll-scholar
   minima (~> 2.5)
+
+BUNDLED WITH
+   1.17.2
