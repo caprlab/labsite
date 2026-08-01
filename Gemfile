@@ -1,13 +1,8 @@
 source "https://rubygems.org"
-
-#use rbev:
+#use rbenv:
 #echo 'eval "$(rbenv init -)"' >> ~/.zshrc
 #source ~/.zshrc
+# run after configuring: rm Gemfile.lock && bundle install && bundle lock --add-platform x86_64-linux && bundle lock --add-platform arm64-darwin && bundle install
 
-
-# run after configuring file: bundle update
-gem "ffi"
-gem "stringio", ">= 3.1.2"
 gem "github-pages", group: :jekyll_plugins
-gem "jekyll-scholar", group: :jekyll_plugins
-gem "minima","~> 2.5"
+gem "minima", "~> 2.5"
