@@ -7,4 +7,4 @@ permalink: /labresources/
 These are resources used by CAPR Lab members.
 
 ## Undergraduate Research Assistants
-* [Handbook]({{ '/labresources/ra-handbook/' | relative_url }})
+* [RA Handbook](ra-handbook/)
