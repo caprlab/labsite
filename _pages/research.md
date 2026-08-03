@@ -3,10 +3,14 @@ layout: page
 title: Research
 permalink: /research/
 ---
+
 ## Lab Research Focus
 The CAPR Lab explores how the human mind processes information, assesses risk, and makes decisions in complex, fast-changing environments. Our work bridges fundamental cognitive science with practical, real-world applications across several key domain areas.
+
 ---
+
 ## Research Topics
+
 * **Human Behavior in Fire Emergencies:** We apply cognitive science to understand how individuals perceive fire intensity and make protective action decisions in building and wildland urban interface (WUI) fires. We are interested in how people think when they are alerted to fire hazards, such as via a fire alarm, and how they respond, such as when to use a fire extinguisher. This work aims to close the gap between fire safety engineering and the cognitive science of human behavior for the next generation of fire safety systems. 
   * *Relevant Publications:* 
     * [Bonny & Russell (2025) *Safety*]({{ '/publications/#bonny_role_2025' | relative_url }})
@@ -24,9 +28,13 @@ The CAPR Lab explores how the human mind processes information, assesses risk, a
   * *Relevant Publications:*
     * [Bonny (2024) *JEGE*]({{ '/publications/#bonny_individual_2024' | relative_url }})
     * [Bonny & Castaneda (2017) *Computers in Human Behavior*]({{ '/publications/#bonny_number_2017' | relative_url }})
+
 ---
+
 ## Lab Expertise & Research Techniques
+
 The CAPR Lab utilizes rigorous, mixed-methods approaches to safely and accurately measure cognitive processes:
+
 * **Simulation and Immersive Technologies:** Development and validation of high-fidelity virtual reality (VR) and extended reality (XR) environments to safely test decision-making and risk assessment in hazardous scenarios (e.g., residential fires). 
   * *E.g.:* [Russell, Bonny, & Reed (2024) *Fire*]({{ '/publications/#russell_impact_2024' | relative_url }})
 * **Psychophysiological & Neurological Measurement:** Utilizing electroencephalography (EEG), and event-related potentials (ERPs) to capture the biological underpinnings of perception and cognition.
