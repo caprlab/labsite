@@ -84,7 +84,7 @@ It is critical to distinguish between general research data (which is OK to shar
 ### Open Science Documentation
 Transparency and reproducibility are vital. When writing code (e.g., R, Python, jsPsych) or creating data entry protocols, keeping code and documentation up-to-date and clear for others to read is mandatory. Use standard file naming conventions and comment your scripts thoroughly.
 
-### Strict NO AI Policy for Participant PII
+### Strict **NO** AI Policy for Participant PII
 Under no circumstances should you input participant PII or confidential participant data (e.g., names, contact info, recordings) into generative AI tools (e.g., ChatGPT, Gemini, Claude). Doing so is a strict violation of data privacy protocols.
 
 ---
@@ -93,12 +93,12 @@ Under no circumstances should you input participant PII or confidential particip
 
 ### Protecting Personally Identifiable Information (PII)
 Our lab makes a promise to keep ALL personally identifiable information (PII; e.g., first and last name, date of birth) absolutely confidential, and as a member of the lab, it is your duty to never breach this confidentiality.
-* **Identification:** When testing, identify participants by first name and last initial only. Use particiant IDs for marking data.
+* **Identification:** When testing, identify participants using particiant IDs for logs and marking data.
 * **Document Handling:** Never throw away anything with participant information on it (shred it instead).
-* **Digital Data Security:** Lock computers when you’re not using them. **Never** upload or email files containing PII. 
+* **Digital Data Security:** Lock computers when you’re not using them. **Never** email files containing PII: only use the lab-provided data storage systems.
 * **Physical Data Protection:** Never remove data or anything with participant information from the lab.
 
-### Professional Conduct in the Lab
+### In-Person Professional Conduct in the Lab
 * **Attire:** When you are running participants, consider what you are wearing before you come to the lab; if you think that your outfit could distract the participants from the study (and mess up data collection), consider wearing something else.
 * **Phones:** Personal phone calls not allowed in the lab. Please put your phone in silent mode when you enter the lab.
 * **Noise:** Manage voice volume in the lab (especially when testing is going on). You should be mindful of the studies that can be going on.
@@ -141,8 +141,8 @@ Students typically request letters of recommendation when applying to graduate s
 
 **Policy:** We require a minimum commitment of **one full semester** in the lab before requesting a letter of recommendation.
 
-**Guidance from Dr. Bonny:**
-Dr. Bonny emphasizes that simply logging hours in the lab is not enough to secure a strong letter of recommendation. Recommendations are based on what is actively observed of you both inside and outside the classroom or lab environment. To receive a quality letter, you must take an active role in your own learning and professional development. This includes asking thoughtful questions during meetings, sharing research interests or relevant articles, and openly discussing your professional goals. By engaging deeply with the work and the team, you allow Dr. Bonny to get to know you as both a student and an individual, which is necessary to write a compelling and personalized letter on your behalf.
+> **Guidance from Dr. Bonny:**
+> Dr. Bonny emphasizes that simply logging hours in the lab is not enough to secure a strong letter of recommendation. Recommendations are based on what is actively observed of you both inside and outside the classroom or lab environment. To receive a quality letter, you must take an active role in your own learning and professional development. This includes asking thoughtful questions during meetings, sharing research interests or relevant articles, and openly discussing your professional goals. By engaging deeply with the work and the team, you allow Dr. Bonny to get to know you as both a student and an individual, which is necessary to write a compelling and personalized letter on your behalf.
 
 ---
 
@@ -153,7 +153,5 @@ Your physical safety is our priority. In the event of an incident, distress, or 
 * **Immediate Life-Threatening Emergency:** Dial **911**
 * **Morgan State University Police (Emergency):** Dial **443-885-3103** (or ext. **3103** from a campus phone)
 * **Morgan State University Police (Non-Emergency):** Dial **443-885-3100**
-* **Campus Health Center:** 443-885-3236
-* **Campus Counseling Center:** 443-885-3130
 * **Psychology Department Main Office:** 443-885-3290
 * **College of Liberal Arts (CLA) Dean's Office:** 443-885-3888
