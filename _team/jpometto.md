@@ -5,6 +5,10 @@ email:
 image: /assets/img/placeholder.svg
 ---
 
+### Position
+
+Undergraduate Research Assistant (2026 - present)
+
 ### Major
 
 Psychology
