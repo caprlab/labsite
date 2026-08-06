@@ -29,7 +29,7 @@ permalink: /team/
     max-width: 150px;
     height: 150px;
     object-fit: cover;
-    border-radius: 50%; /* Makes the image a perfect circle */
+    border-radius: 8px; /* 50%; Makes the image a perfect circle */
     margin: 0 auto 15px auto;
     display: block;
   }
@@ -76,10 +76,6 @@ permalink: /team/
 
 ## Undergraduate Students
 
-We welcome students who are interested in the lab. Contact Dr. Bonny about joining!
-
-<br>
-
 <div class="team-grid">
   {% assign undergrads = site.team | where: "role", "Undergraduate Student" %}
   {% for person in undergrads %}
@@ -90,6 +86,10 @@ We welcome students who are interested in the lab. Contact Dr. Bonny about joini
     </div>
   {% endfor %}
 </div>
+
+<br>
+
+We welcome students who are interested in the lab. Contact Dr. Bonny about joining!
 
 ---
 

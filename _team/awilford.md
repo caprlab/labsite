@@ -1,5 +1,5 @@
 ---
-title: Jaslyn Pometto
+title: Abibata Wilford
 role: Undergraduate Student
 email: 
 image: /assets/img/placeholder.svg
@@ -20,4 +20,4 @@ Senior
 
 #### Research Interests
 
-cognitive neuroscience; developmental psychology; environmental influence
+developmental neuropsychology; child and adolescent mental health; cognitive neuroscience; neurodevelopment disorders; child and adolescent development
