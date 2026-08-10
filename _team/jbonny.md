@@ -7,7 +7,7 @@ image: /assets/img/jbonny-profile-pic.jpg
 
 ### About
 
-[CV]({{ '/assets/cv/JBonny-CV.pdf' | relative_url }}) • [ORCID](https://orcid.org/0000-0002-1601-5114) • [Google Scholar](https://scholar.google.com/citations?user=Z5FPSFIAAAAJ) • [LinkedIn](https://www.linkedin.com/in/justin-bonny-78b20bb0)
+[CV]({{'/assets/cv/JBonny-CV.pdf'|relative_url}}) • [ORCID](https://orcid.org/0000-0002-1601-5114) • [Google Scholar](https://scholar.google.com/citations?user=Z5FPSFIAAAAJ) • [LinkedIn](https://www.linkedin.com/in/justin-bonny-78b20bb0)
 
 Dr. Justin W. Bonny is an Associate Professor of Psychology at Morgan State University who specializes in cognitive science, developmental psychology, and human factors research. He earned his Ph.D. in Psychology with a concentration in Cognition and Development from Emory University.
 
