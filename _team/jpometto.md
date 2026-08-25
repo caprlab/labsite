@@ -2,7 +2,7 @@
 title: Jaslyn Pometto
 role: Undergraduate Student
 email: 
-image: /assets/img/placeholder.svg
+image: /assets/img/jpometto.jpg
 ---
 
 #### Position
