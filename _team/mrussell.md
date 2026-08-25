@@ -2,12 +2,13 @@
 title: Micah Russell
 role: Doctoral Student
 email: 
-image: /assets/img/placeholder.svg
+image: /assets/img/mrussell.jpg
 ---
 
 #### About
 
-Micah Russell is a doctoral student in the Graduate Program in Psychometrics. He earned his M.S. in Psychometrics at Morgan State University and B.A. in Psychology at Shippensburg University. 
+Micah Russell is currently a third-year Psychometrics PhD student at Morgan State University. He earned a BA in Psychology Shippensburg University and an MS in Psychometrics from Morgan State University. He has worked in multiple disciplines of research on such projects related to human behavior in fire, educational assessment techniques, and AI aided risk perception programs.
+
 
 #### Research
-pending
+Research interests include multimodal assessment techniques and improvement of risk perception and evaluation techniques for hazardous, dangerous, and risky situations. 
