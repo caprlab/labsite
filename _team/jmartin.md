@@ -2,7 +2,7 @@
 title: Jada Martin
 role: Undergraduate Student
 email: 
-image: /assets/img/placeholder.svg
+image: /assets/img/jmartin.jpg
 ---
 
 #### Position
