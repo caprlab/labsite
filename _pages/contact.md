@@ -21,7 +21,11 @@ Morgan State University
 ## Lab Location
 
 **Cognitive, Applied, and Perceptual Research (CAPR) Lab**
+
 Department of Psychology
+
 Morgan State University
+
 1700 East Cold Spring Lane
+
 Baltimore, MD 21251
